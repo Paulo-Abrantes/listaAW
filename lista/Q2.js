@@ -9,4 +9,4 @@ document.getElementById("azul").onmouseover = function () {
 };
 document.getElementById("amarelo").onmouseover = function () {
   document.body.style.backgroundColor = "yellow";
-};
+}
