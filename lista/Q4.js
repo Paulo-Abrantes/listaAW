@@ -12,4 +12,4 @@ document.getElementById("verificarBtn").onclick = function() {
   } else {
     resultado.textContent = `"${palavra}" não é um palíndromo ❌`;
   }
-};
+}
